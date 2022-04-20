@@ -1,2 +1,2 @@
-# TypeScript-DataType-vfc-optionalchaining
+# typescript-datatype-vfc-optionalchaining
 Created with CodeSandbox
